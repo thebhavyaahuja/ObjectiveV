@@ -7,4 +7,4 @@ TODO:
 - [ ] Scraper for fetching data from iiit-mess.in
 - [ ] Scraper for signing in and fetching data from courses.iiit.ac.in
 - [x] Flask server
-- [ ] Android widget and app
+- [x] Android widget and app
